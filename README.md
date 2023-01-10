@@ -1,2 +1,2 @@
 # yandex_practicum
-Projects I made during my education at Yandex.Practicum 
+Some of the projects I made during my education at Yandex.Practicum 
